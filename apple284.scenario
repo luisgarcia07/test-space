@@ -43,6 +43,7 @@
     <bundle name="loadrunner" version="12.53"/>
     <bundle name="ds" version="2.0"/>
     <bundle name="ds" version="3.0"/>
+    <bundle name="oracle" version="10.2.0.5"/>
   </bundles>
   <datasources/>
   <options>
